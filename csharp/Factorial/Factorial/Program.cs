@@ -10,6 +10,7 @@ namespace Factorial
     {
         static void Main(string[] args)
         {
+            // call method
             int test = Fact(5);
             Console.WriteLine(test);
         }
