@@ -15,6 +15,7 @@ namespace Factorial
             Console.WriteLine(test);
         }
 
+        // method to calculate factorial of any number
         static int Fact(int num)
         {
             if (num == 1)
