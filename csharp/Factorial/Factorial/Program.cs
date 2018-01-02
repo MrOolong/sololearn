@@ -16,7 +16,7 @@ namespace Factorial
         }
 
         // method to calculate factorial of any number
-        // call method above
+        // call method above - if number is one return itself
         static int Fact(int num)
         {
             if (num == 1)
